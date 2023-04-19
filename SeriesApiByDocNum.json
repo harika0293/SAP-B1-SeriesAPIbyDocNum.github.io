@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "series": 1,
+    "seriesName": "PRD2224",
+    "docNum": 22021509
+},
+{
+    "id": 2,
+    "series": 2,
+    "seriesName": "GRN2225",
+    "docNum": 22021510
+},
+{
+    "id": 3,
+    "series": 3,
+    "seriesName": "ITRM2226",
+    "docNum": 22021511
+},
+{
+    "id": 4,
+    "series": 4,
+    "seriesName": "ITR2227",
+    "docNum": 22021512
+},
+{
+    "id": 5,
+    "series": 5,
+    "seriesName": "ITR2328",
+    "docNum": 22021513
+}
+]
